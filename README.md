@@ -37,6 +37,6 @@ Currently working on this enterprise-scale platform as a Senior Engineer.
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://linkedin.com/in/vikash-kumar-yadav-68ba22183
 - **Email:** vy8412@gmail.com
 - **Location:** Indore, Madhya Pradesh, India
