@@ -21,7 +21,6 @@ Currently building <b>ProNovos</b> at Galaxy Weblinks — and independently ship
 - 🛠️ 7+ years across backend development, REST API design, performance optimization, and full-stack delivery
 - 🤖 1+ year hands-on with AI-assisted development — Cursor IDE, Claude Code, GitHub Copilot, OpenAI Codex — used daily in production work
 - 🌱 Building modern frontends (React.js, Next.js) with AI pair-programming
-- 📄 [Download my résumé](Vikash-Resume.pdf)
 
 ### 🧰 Tech Stack
 
