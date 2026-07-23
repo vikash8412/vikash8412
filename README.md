@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikash Kumar Yadav 👋</h1>
-<h3 align="center">Full Stack Developer · Laravel · PHP · MySQL · REST APIs</h3>
+<h3 align="center">PHP LARAVEL Developer · PHP · Laravel . MySQL · REST APIs</h3>
 
 <p align="center">
 7+ years shipping production SaaS across construction-finance, taxi booking & CRM platforms.<br>
