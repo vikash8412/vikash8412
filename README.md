@@ -7,7 +7,7 @@ Currently building <b>ProNovos</b> at Galaxy Weblinks — and independently ship
 </p>
 
 <p align="center">
-📍 Indore, Madhya Pradesh, India &nbsp;·&nbsp;
+📍 Siwan, Bihar, 841236, India &nbsp;·&nbsp;
 📧 <a href="mailto:vy8412@gmail.com">vy8412@gmail.com</a> &nbsp;·&nbsp;
 💼 <a href="https://www.linkedin.com/in/vikash-kumar-yadav-68ba22183/">LinkedIn</a>
 </p>
